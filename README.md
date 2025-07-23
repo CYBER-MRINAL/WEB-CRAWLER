@@ -27,7 +27,7 @@ Follow these steps to install the web crawler:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/CYBER-MRINAL/web-crawler.git
+   git clone https://github.com/CYBER-MRINAL/WEB-CRAWLER.git
    cd web-crawler
    ```
 
