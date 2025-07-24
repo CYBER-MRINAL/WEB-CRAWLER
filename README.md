@@ -70,6 +70,10 @@ python3 elite_crawler.py https://example.com \
 
 ---
 
+<img width="1748" height="989" alt="image" src="https://github.com/user-attachments/assets/c1b0b5ba-b93e-4e67-8586-a0e1b28f9752" />
+
+--- 
+
 ## 🎯 Example Use Cases
 
 * ✅ Recon and discovery in bug bounty programs
